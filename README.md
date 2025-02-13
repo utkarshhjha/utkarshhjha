@@ -1,4 +1,4 @@
--  Hi, I’m @utkarshhjha
+-  Hi, I’m Utkarsh Raj
 -  I’m interested in coding and designing
 -  I’m currently undergrad at BIT Mesra
 -  My linkedin Id www.linkedin.com/in/utkarshraj355
