@@ -1,6 +1,6 @@
 -  Hi, I’m Utkarsh Raj
 -  I’m interested in coding and designing
--  I’m currently undergrad at BIT Mesra
+-  Graduated from BIT Mesra in CSE
 -  My linkedin Id www.linkedin.com/in/utkarshraj355
 
 <!---
